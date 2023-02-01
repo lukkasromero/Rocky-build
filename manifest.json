@@ -1,0 +1,26 @@
+{
+  "short_name": "Rocky Miner",
+  "name": "Rocky Miner",
+  "description": "Stake BUSD and earn huge interest",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "89x83",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#000"
+}
